@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+SwainstonViewTool::Renderer.copyright 'Cody Swainston', 'All rights reserved'
+```
 
 ## Development
 
